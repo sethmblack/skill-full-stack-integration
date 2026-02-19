@@ -4,7 +4,7 @@ description: Evaluate vertical integration and full-stack ownership decisions, d
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4067
+  version: 1.0.4068
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - full-stack-integration
